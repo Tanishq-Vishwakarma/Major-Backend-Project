@@ -1,0 +1,16 @@
+{
+  "name": "videoplatform",
+  "version": "1.0.0",
+  "description": "First major project of backend development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "majorproject"
+  ],
+  "author": "Tanishq Vishwakarma",
+  "license": "ISC"
+}
